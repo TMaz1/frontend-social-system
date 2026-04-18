@@ -1,22 +1,14 @@
 import { useEffect, useState, useCallback } from "react";
 import { localDataService } from "../../services/localDataService";
 import type { CardProps } from "../../components/Card/Card";
-import { useUserData } from "../user/useUserData";
-import { AuthStatus } from "../../types/asyncState";
 import { mapCardToProps } from "../../utils/mapCard";
 
 interface Params {
+    userId: string;
     selectedCollection: string;
 }
 
-export const useUserCards = ({ selectedCollection }: Params) => {
-    const userResult = useUserData();
-    
-    const userId =
-        userResult.status === AuthStatus.Ready
-            ? userResult.data.userId
-            : null;
-
+export const useUserCards = ({ userId, selectedCollection }: Params) => {
     const [cards, setCards] = useState<CardProps[]>([]);
 
     // =========================

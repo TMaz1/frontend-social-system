@@ -96,14 +96,6 @@ const ProfilePageContent: React.FC<Props> = ({ user, isOwnProfile }) => {
         setModalState(null);
     };
 
-    if (!user) {
-        return (
-            <div className={styles.container}>
-                <h2>Profile not found</h2>
-            </div>
-        );
-    }
-
     return (
 
         <div className={styles.container}>
@@ -173,6 +165,7 @@ const ProfilePageContent: React.FC<Props> = ({ user, isOwnProfile }) => {
                     )}
 
                     <DraggableCardGrid
+                        userId={user.userId}
                         selectedCollection={selectedCollection}
                         isOwnProfile={isOwnProfile}
                     />

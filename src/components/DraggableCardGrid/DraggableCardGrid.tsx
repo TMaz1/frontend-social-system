@@ -31,11 +31,12 @@ import NothingHere from "../EmptyStates/NothingHere";
 import { useUserCards } from "../../hooks/cards/useUserCards";
 
 interface Props {
+    userId: string;
     selectedCollection: string;
     isOwnProfile?: boolean;
 }
 
-const DraggableCardGrid: React.FC<Props> = ({ selectedCollection, isOwnProfile }) => {
+const DraggableCardGrid: React.FC<Props> = ({ userId, selectedCollection, isOwnProfile }) => {
     const { layout } = useLayout();
     const { reorderMode } = useReorderContext();
 
@@ -47,7 +48,11 @@ const DraggableCardGrid: React.FC<Props> = ({ selectedCollection, isOwnProfile }
     const strategy = effectiveLayout === "masonry" ? verticalListSortingStrategy : rectSortingStrategy;
     const canReorder = reorderMode && selectedCollection !== "uploaded";
 
-    const { cards, reorderCards } = useUserCards({ selectedCollection });
+    const { cards, reorderCards } = useUserCards({
+        userId,
+        selectedCollection
+    });
+
     const [activeId, setActiveId] = useState<string | null>(null);
 
     const activeCard = activeId ? cards.find(c => c.id === activeId) ?? null : null;
