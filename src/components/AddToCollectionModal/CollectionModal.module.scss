@@ -1,0 +1,181 @@
+@use "../../styles/variables" as *;
+
+/* ----------------------------------------------------------
+   SHARED MODAL STYLES
+---------------------------------------------------------- */
+.contentWrapper {
+    background: $white-soft;
+    border-radius: 14px;
+    overflow-y: auto;
+    animation: fadeIn 0.2s ease;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+
+.centered {
+    align-self: center;
+}
+
+.bottomSheet {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-radius: 18px 18px 0 0;
+}
+
+.heading {
+    font-family: $font-sans;
+    font-size: 1.25rem;
+    margin-bottom: 14px;
+    color: $black-deep;
+}
+
+/* ----------------------------------------------------------
+   ADD-TO-COLLECTION SPECIFIC
+---------------------------------------------------------- */
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.collectionButton {
+    width: 100%;
+    text-align: left;
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid $grey-700;
+    background: $grey-900;
+    color: white;
+    cursor: pointer;
+    font-family: $font-sans;
+    transition: background 0.15s ease;
+
+    &:hover {
+        background: $black-deep;
+    }
+}
+
+.colTitle {
+    font-weight: 500;
+}
+
+.colDesc {
+    font-size: 0.85rem;
+    opacity: 0.8;
+}
+
+.createBtn {
+    margin-top: 20px;
+    width: 100%;
+    padding: 12px;
+    background: $grey-900;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 500;
+    font-family: $font-sans;
+    transition: opacity 0.15s ease;
+
+    &:hover {
+        opacity: 0.9;
+    }
+}
+
+/* ----------------------------------------------------------
+   CREATE / EDIT FORM SPECIFIC
+---------------------------------------------------------- */
+
+.input {
+    width: 100%;
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid $grey-700;
+    margin-bottom: 18px;
+    font-size: 1rem;
+    font-family: $font-sans;
+    background: $white-soft;
+    color: $black-deep;
+}
+
+.textarea {
+    width: 100%;
+    height: 90px;
+    padding: 10px;
+    margin-top: 8px;
+    font-family: $font-sans;
+    border: 1px solid $grey-700;
+    border-radius: 8px;
+    resize: none;
+    font-size: 0.95rem;
+    background: $white-soft;
+    color: $black-deep;
+
+    &:focus {
+        outline: none;
+        border-color: $grey-800;
+    }
+}
+
+/* Footer for buttons */
+.modalFooter {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+    margin-top: 18px;
+}
+
+.cancelBtn {
+    padding: 12px 20px;
+    background: $grey-700;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: $font-sans;
+    transition: opacity 0.15s ease;
+}
+
+.confirmBtn {
+    padding: 12px 20px;
+    background: $grey-900;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 500;
+    font-family: $font-sans;
+    transition: opacity 0.15s ease;
+}
+
+.fieldLabel {
+    font-family: $font-sans;
+    font-weight: 500;
+    font-size: 0.9rem;
+    color: $black-deep;
+    margin-bottom: 6px;
+    display: block;
+}
+
+/* Footer buttons */
+.modalFooter {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(4px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

@@ -1,0 +1,72 @@
+@use "../../../styles/variables" as *;
+
+.overlay {
+    position: fixed;
+    inset: 0;
+    overflow: hidden;
+    z-index: 9999;
+
+    /* LIGHT MODE DEFAULT */
+    background: $white-soft;
+}
+
+/* DARK MODE OVERRIDE */
+@media (prefers-color-scheme: dark) {
+    .overlay {
+        background: $black-deep;
+    }
+}
+
+/* NAVBAR SKELETON */
+.navbar {
+    height: 64px;
+    width: 100%;
+
+    background: rgba(0, 0, 0, 0.04);
+}
+
+@media (prefers-color-scheme: dark) {
+    .navbar {
+        background: rgba(255, 255, 255, 0.04);
+    }
+}
+
+/* CONTENT AREA (intentionally minimal) */
+.content {
+    padding: 24px;
+}
+
+/* SHIMMER LAYER (single source of truth) */
+.shimmer {
+    position: absolute;
+    inset: -200%;
+    pointer-events: none;
+
+    background: linear-gradient(135deg,
+            transparent 40%,
+            rgba(0, 0, 0, 0.04) 50%,
+            transparent 60%);
+
+    animation: shimmerMove 2.2s linear infinite;
+}
+
+/* DARK MODE SHIMMER */
+@media (prefers-color-scheme: dark) {
+    .shimmer {
+        background: linear-gradient(135deg,
+                transparent 40%,
+                rgba(255, 255, 255, 0.06) 50%,
+                transparent 60%);
+    }
+}
+
+/* ANIMATION */
+@keyframes shimmerMove {
+    from {
+        transform: translate3d(40%, -40%, 0);
+    }
+
+    to {
+        transform: translate3d(-40%, 40%, 0);
+    }
+}

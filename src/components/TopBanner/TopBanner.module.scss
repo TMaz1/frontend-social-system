@@ -1,0 +1,54 @@
+@use "../../styles/variables" as *;
+
+.banner {
+    width: 100%;
+    height: 36px;
+    background: $grey-800;
+    color: $white-soft;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: sticky;
+    top: 0;
+    z-index: 3000;
+
+    font-family: $font-sans;
+    font-size: 13px;
+
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+
+    // animation: slideDown 0.25s ease;
+
+    p {
+        margin: 0;
+        text-align: center;
+        padding: 0 48px;
+    }
+}
+
+.link {
+    font-weight: 600;
+    margin-left: 6px;
+    text-decoration: underline;
+    color: $white-soft;
+
+    &:hover {
+        opacity: 0.8;
+    }
+}
+
+.close {
+    position: absolute;
+    right: 16px;
+
+    background: none;
+    border: none;
+    color: $white-soft;
+    font-size: 16px;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+}

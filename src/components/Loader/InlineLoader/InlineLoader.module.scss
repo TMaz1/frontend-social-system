@@ -1,0 +1,51 @@
+@use "../../../styles/variables" as *;
+
+.wrapper {
+    position: relative;
+    width: 100%;
+    min-height: clamp(220px, 60vh, 600px); // default fallback height
+    overflow: hidden;
+    border-radius: 8px;
+
+    background: $white-muted;
+}
+
+/* dark mode */
+@media (prefers-color-scheme: dark) {
+    .wrapper {
+        background: rgba(255, 255, 255, 0.04);
+    }
+}
+
+/* SAME shimmer concept as overlay */
+.shimmer {
+    position: absolute;
+    inset: -200%;
+    pointer-events: none;
+
+    background: linear-gradient(135deg,
+            transparent 40%,
+            rgba(0, 0, 0, 0.04) 50%,
+            transparent 60%);
+
+    animation: shimmerMove 2.2s linear infinite;
+}
+
+@media (prefers-color-scheme: dark) {
+    .shimmer {
+        background: linear-gradient(135deg,
+                transparent 40%,
+                rgba(255, 255, 255, 0.06) 50%,
+                transparent 60%);
+    }
+}
+
+@keyframes shimmerMove {
+    from {
+        transform: translate3d(40%, -40%, 0);
+    }
+
+    to {
+        transform: translate3d(-40%, 40%, 0);
+    }
+}

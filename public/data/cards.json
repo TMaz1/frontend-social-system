@@ -1,0 +1,2301 @@
+[
+    {
+        "cardId": "card_000001",
+        "userId": "user_001",
+        "title": "Golden Hour Over Downtown",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Warm glow falling over the skyline.",
+        "fullDescription": "Shot this from a parking structure rooftop as the sun dipped behind the horizon. The haze added a soft gradient that made the buildings feel surreal.",
+        "link": "https://alexdoe.com/goldenskies",
+        "hashtags": [
+            "city",
+            "goldenhour",
+            "skyline"
+        ],
+        "visibility": "public",
+        "createdAt": 1732005000
+    },
+    {
+        "cardId": "card_000002",
+        "userId": "user_001",
+        "title": "Quiet Forest Path",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "A morning hike before the world wakes up.",
+        "fullDescription": "I reached this trail just after sunrise. The low fog hugged the ground, creating an ethereal tunnel of light between the trees.",
+        "link": "",
+        "hashtags": [
+            "forest",
+            "travel",
+            "nature"
+        ],
+        "visibility": "public",
+        "createdAt": 1732005100
+    },
+    {
+        "cardId": "card_000003",
+        "userId": "user_001",
+        "title": "Seaside Blues",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Ocean breeze moment.",
+        "fullDescription": "Captured during a late afternoon stroll. The water's texture was unlike anything I had seen—calm but full of life.",
+        "link": "",
+        "hashtags": [
+            "ocean",
+            "travel",
+            "blue"
+        ],
+        "visibility": "public",
+        "createdAt": 1732005200
+    },
+    {
+        "cardId": "card_000004",
+        "userId": "user_002",
+        "title": "Latte Art Afternoon",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=1200",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "Cozy corner and warm foam.",
+        "fullDescription": "Stopped by a quiet Lower East Side café. The barista made this perfect rosetta without even looking up—effortless.",
+        "link": "",
+        "hashtags": [
+            "coffee",
+            "nyc",
+            "cafe"
+        ],
+        "visibility": "public",
+        "createdAt": 1732005300
+    },
+    {
+        "cardId": "card_000005",
+        "userId": "user_002",
+        "title": "Winter Window Seat",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "A book, a blanket, and cold glass.",
+        "fullDescription": "Cold mornings always feel softer somehow. This window seat has become a small ritual—coffee, sweater weather, and my latest book.",
+        "link": "",
+        "hashtags": [
+            "winter",
+            "reading",
+            "cozy"
+        ],
+        "visibility": "public",
+        "createdAt": 1732005400
+    },
+    {
+        "cardId": "card_000006",
+        "userId": "user_003",
+        "title": "my battlestation rn",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "rgb makes me play better fr",
+        "fullDescription": "idc what anyone says. if the lights aren’t glowing, the gameplay ain’t flowing. cable management? never heard of her.",
+        "link": "",
+        "hashtags": [
+            "gamer",
+            "rgb",
+            "setup"
+        ],
+        "visibility": "public",
+        "createdAt": 1732005500
+    },
+    {
+        "cardId": "card_000007",
+        "userId": "user_003",
+        "title": "midnight queue grind",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1603481546579-65d935ba9cdd?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "rank reset pain",
+        "fullDescription": "its always the last game before sleep that either hits different or ruins the whole vibe. tonight it was the second one lol.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "ranked",
+            "latenight"
+        ],
+        "visibility": "public",
+        "createdAt": 1732005600
+    },
+    {
+        "cardId": "card_000008",
+        "userId": "user_003",
+        "title": "controller collection dump",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "why do i have so many...",
+        "fullDescription": "every time i swear i'm done buying controllers, someone drops a new colorway and i fold instantly.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "controllers",
+            "collection"
+        ],
+        "visibility": "public",
+        "createdAt": 1732005700
+    },
+    {
+        "cardId": "card_000009",
+        "userId": "user_004",
+        "title": "Soft Shadows in the Living Room",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Texture and calm.",
+        "fullDescription": "The way light falls across natural materials always stops me. This corner has become the quietest part of my space.",
+        "link": "",
+        "hashtags": [
+            "minimal",
+            "interior",
+            "calm"
+        ],
+        "visibility": "public",
+        "createdAt": 1732005800
+    },
+    {
+        "cardId": "card_000010",
+        "userId": "user_004",
+        "title": "Clean Desk Reset",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1557682260-96773eb01377?w=1200",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "Less clutter, more clarity.",
+        "fullDescription": "I’ve been refining my workspace to feel intentional. This week's iteration feels the closest to what I want—open, breathable, purposeful.",
+        "link": "",
+        "hashtags": [
+            "minimalism",
+            "workspace",
+            "design"
+        ],
+        "visibility": "public",
+        "createdAt": 1732005900
+    },
+    {
+        "cardId": "card_000011",
+        "userId": "user_004",
+        "title": "Morning Ritual Objects",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Small things that ground me.",
+        "fullDescription": "Ceramics, plants, soft textures. I find myself taking photos of my routine objects—they age with you in a quiet, comforting way.",
+        "link": "",
+        "hashtags": [
+            "ritual",
+            "minimal",
+            "home"
+        ],
+        "visibility": "public",
+        "createdAt": 1732006000
+    },
+    {
+        "cardId": "card_000012",
+        "userId": "user_005",
+        "title": "Summit Wind",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Peak air hits different.",
+        "fullDescription": "After four hours of climbing, the horizon opened up in a way that made everything feel small and perfect at the same time.",
+        "link": "",
+        "hashtags": [
+            "mountains",
+            "hike",
+            "summit"
+        ],
+        "visibility": "public",
+        "createdAt": 1732006100
+    },
+    {
+        "cardId": "card_000013",
+        "userId": "user_005",
+        "title": "Trail Coffee Setup",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Brew outside, taste better.",
+        "fullDescription": "There's something grounding about grinding beans with cold air on your face. Nature has a way of making simple things feel sacred.",
+        "link": "",
+        "hashtags": [
+            "coffee",
+            "outdoors",
+            "camp"
+        ],
+        "visibility": "public",
+        "createdAt": 1732006200
+    },
+    {
+        "cardId": "card_000014",
+        "userId": "user_005",
+        "title": "Night Tent Glow",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Warm light in cold air.",
+        "fullDescription": "Set camp just before dark. The wind was loud, the stars were louder. Nights like this always remind me why I keep coming back.",
+        "link": "",
+        "hashtags": [
+            "camping",
+            "night",
+            "travel"
+        ],
+        "visibility": "public",
+        "createdAt": 1732006300
+    },
+    {
+        "cardId": "card_000015",
+        "userId": "user_006",
+        "title": "streetwear fit test — v1",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "monochrome but make it clean.",
+        "fullDescription": "Playing with silhouettes lately. Oversized top, tapered bottoms. Still refining the palette but this combo felt balanced.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "streetwear",
+            "ootd"
+        ],
+        "visibility": "public",
+        "createdAt": 1732006400
+    },
+    {
+        "cardId": "card_000016",
+        "userId": "user_006",
+        "title": "mirror snap w/ new jacket",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "testing vibes.",
+        "fullDescription": "Texture-heavy fits are my weakness. Found this jacket thrifting and haven't stopped styling it since.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "fitcheck",
+            "style"
+        ],
+        "visibility": "public",
+        "createdAt": 1732006500
+    },
+    {
+        "cardId": "card_000017",
+        "userId": "user_006",
+        "title": "wardrobe update!!",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1542060748-10c28b62716f?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "yes i reorganized again.",
+        "fullDescription": "Wardrobe keep evolving. Tried a neutral-heavy row this time to keep the space breathable.",
+        "link": "",
+        "hashtags": [
+            "sneakers",
+            "fashion",
+            "collection"
+        ],
+        "visibility": "public",
+        "createdAt": 1732006600
+    },
+    {
+        "cardId": "card_000018",
+        "userId": "user_007",
+        "title": "Rain-Pooled Pavements at Dusk",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "The city breathes differently in the rain.",
+        "fullDescription": "A soft amber glow pressed against the wet stone tonight. Streetlamps flickered, the world slowed, and even the hurried seemed hushed.",
+        "link": "",
+        "hashtags": [
+            "darkacademia",
+            "city",
+            "mood"
+        ],
+        "visibility": "public",
+        "createdAt": 1732006700
+    },
+    {
+        "cardId": "card_000019",
+        "userId": "user_007",
+        "title": "Annotated Margins",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Ink-stained thoughts.",
+        "fullDescription": "There’s a kind of intimacy in revisiting your own handwriting years later. Notes become fossils of thought—imperfect, human, alive.",
+        "link": "",
+        "hashtags": [
+            "books",
+            "notes",
+            "aesthetic"
+        ],
+        "visibility": "public",
+        "createdAt": 1732006800
+    },
+    {
+        "cardId": "card_000020",
+        "userId": "user_007",
+        "title": "Study Nook",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Cool nook.",
+        "fullDescription": "My workspace at 11 pm. There's a holiness to quiet labor—papers strewn, ideas half-formed, and the lamp holding the room together.",
+        "link": "",
+        "hashtags": [
+            "study",
+            "darkacademia",
+            "desk"
+        ],
+        "visibility": "public",
+        "createdAt": 1732006900
+    },
+    {
+        "cardId": "card_000021",
+        "userId": "user_001",
+        "title": "Sandy Footprints",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Beach walk memories.",
+        "fullDescription": "Found this quiet stretch at low tide. The beach felt untouched, like a place between worlds.",
+        "link": "",
+        "hashtags": [
+            "beach",
+            "travel",
+            "calm"
+        ],
+        "visibility": "public",
+        "createdAt": 1732007000
+    },
+    {
+        "cardId": "card_000022",
+        "userId": "user_002",
+        "title": "Plant-Filled Café Table",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Green corners always find me.",
+        "fullDescription": "Sat by the window, surrounded by pothos vines. The place smelled like toasted bread and jasmine tea.",
+        "link": "",
+        "hashtags": [
+            "cafe",
+            "plants",
+            "nyc"
+        ],
+        "visibility": "public",
+        "createdAt": 1732007100
+    },
+    {
+        "cardId": "card_000023",
+        "userId": "user_003",
+        "title": "art practice dump",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "not perfect but kinda cute",
+        "fullDescription": "honestly?? kinda therapeutic ngl.",
+        "link": "",
+        "hashtags": [
+            "art",
+            "gaming",
+            "creative"
+        ],
+        "visibility": "public",
+        "createdAt": 1732007200
+    },
+    {
+        "cardId": "card_000024",
+        "userId": "user_004",
+        "title": "Muted Kitchen Palette",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Warm neutrals and clean lines.",
+        "fullDescription": "I’ve been slowly reducing visual noise in the kitchen. These tones make the space feel timeless and peaceful.",
+        "link": "",
+        "hashtags": [
+            "interior",
+            "minimal",
+            "kitchen"
+        ],
+        "visibility": "public",
+        "createdAt": 1732007300
+    },
+    {
+        "cardId": "card_000025",
+        "userId": "user_005",
+        "title": "River Bend Calm",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Soft flow at sunrise.",
+        "fullDescription": "Stopped here on a long trail run. The world was quiet except for the slow curl of the water against the rocks.",
+        "link": "",
+        "hashtags": [
+            "river",
+            "outdoors",
+            "run"
+        ],
+        "visibility": "public",
+        "createdAt": 1732007400
+    },
+    {
+        "cardId": "card_000026",
+        "userId": "user_006",
+        "title": "closet color study",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "tones looking right today.",
+        "fullDescription": "been reorganizing everything by tone instead of item. ngl it makes picking outfits feel like choosing paint swatches.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "closet",
+            "aesthetic"
+        ],
+        "visibility": "public",
+        "createdAt": 1732007500
+    },
+    {
+        "cardId": "card_000027",
+        "userId": "user_007",
+        "title": "Candlelit Annotations",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Wax, ink, and quiet thought.",
+        "fullDescription": "There's something ancient about reading by candlelight. The flame shivers, and suddenly the room has a heartbeat.",
+        "link": "",
+        "hashtags": [
+            "darkacademia",
+            "reading",
+            "mood"
+        ],
+        "visibility": "public",
+        "createdAt": 1732007600
+    },
+    {
+        "cardId": "card_000028",
+        "userId": "user_002",
+        "title": "Morning Cinnamon Roll",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Warm and perfectly soft.",
+        "fullDescription": "I found a tiny bakery tucked away behind a florist. This cinnamon roll was still steaming—one of the best I’ve had all year.",
+        "link": "",
+        "hashtags": [
+            "bakery",
+            "breakfast",
+            "cozy"
+        ],
+        "visibility": "public",
+        "createdAt": 1732007700
+    },
+    {
+        "cardId": "card_000029",
+        "userId": "user_001",
+        "title": "Foggy Harbor Blues",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Muted tones over water.",
+        "fullDescription": "Got up early hoping for sunrise colors, but the fog rolled in instead—and honestly, I think this was better.",
+        "link": "",
+        "hashtags": [
+            "harbor",
+            "fog",
+            "photography"
+        ],
+        "visibility": "public",
+        "createdAt": 1732007800
+    },
+    {
+        "cardId": "card_000030",
+        "userId": "user_003",
+        "title": "snack",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1622543925917-763c34d1a86e?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "judge me idc",
+        "fullDescription": "ranked sessions require fuel. and yes, half of this is gone already don't ask how.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "snacks",
+            "late-night"
+        ],
+        "visibility": "public",
+        "createdAt": 1732007900
+    },
+    {
+        "cardId": "card_000031",
+        "userId": "user_004",
+        "title": "Neutral Bedroom Textures",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Soft surfaces, soft morning.",
+        "fullDescription": "Been experimenting with layered neutrals—linen, cotton, and unfinished wood. The calm they bring is unmatched.",
+        "link": "",
+        "hashtags": [
+            "interior",
+            "minimalist",
+            "bedroom"
+        ],
+        "visibility": "public",
+        "createdAt": 1732008000
+    },
+    {
+        "cardId": "card_000032",
+        "userId": "user_005",
+        "title": "Trail Marker 42",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Halfway there.",
+        "fullDescription": "This stretch of trail always reminds me how small I am in the best way. Trees towering, wind singing.",
+        "link": "",
+        "hashtags": [
+            "hike",
+            "trail",
+            "forest"
+        ],
+        "visibility": "public",
+        "createdAt": 1732008100
+    },
+    {
+        "cardId": "card_000033",
+        "userId": "user_006",
+        "title": "coffee + outfit planning",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "mornings like these >>>",
+        "fullDescription": "laying pieces on the bed to see what fits together. honestly the process is half the fun.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "morning",
+            "style"
+        ],
+        "visibility": "public",
+        "createdAt": 1732008200
+    },
+    {
+        "cardId": "card_000034",
+        "userId": "user_007",
+        "title": "Shadowed Marble Hall",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Where light thinks.",
+        "fullDescription": "The house was nearly empty. Footsteps echoed like punctuation marks between thoughts. Spaces like this feel alive.",
+        "link": "",
+        "hashtags": [
+            "house",
+            "darkacademia",
+            "architecture"
+        ],
+        "visibility": "public",
+        "createdAt": 1732008300
+    },
+    {
+        "cardId": "card_000035",
+        "userId": "user_001",
+        "title": "Mountain Air Silence",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Peak calm.",
+        "fullDescription": "Made it to this ridge right as the clouds broke. The shift in light felt like the world exhaling.",
+        "link": "",
+        "hashtags": [
+            "mountains",
+            "light",
+            "travel"
+        ],
+        "visibility": "public",
+        "createdAt": 1732008400
+    },
+    {
+        "cardId": "card_000036",
+        "userId": "user_002",
+        "title": "Warm Study Desk",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Soft lamplight and slow thoughts.",
+        "fullDescription": "Spent the morning journaling. The smell of fresh paper and cinnamon tea makes writing feel effortless.",
+        "link": "",
+        "hashtags": [
+            "desk",
+            "writing",
+            "warm"
+        ],
+        "visibility": "public",
+        "createdAt": 1732008500
+    },
+    {
+        "cardId": "card_000037",
+        "userId": "user_003",
+        "title": "late night discord call",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "chaos w/ the squad",
+        "fullDescription": "we were supposed to play games but ended up talking about life for 3 hours instead. typical.",
+        "link": "",
+        "hashtags": [
+            "discord",
+            "friends",
+            "night"
+        ],
+        "visibility": "public",
+        "createdAt": 1732008600
+    },
+    {
+        "cardId": "card_000038",
+        "userId": "user_004",
+        "title": "Afternoon Studio Light",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Sun + quiet craft time.",
+        "fullDescription": "Rearranged the studio today. The light moved across the floor so slowly it felt like watching time breathe.",
+        "link": "",
+        "hashtags": [
+            "studio",
+            "minimal",
+            "light"
+        ],
+        "visibility": "public",
+        "createdAt": 1732008700
+    },
+    {
+        "cardId": "card_000039",
+        "userId": "user_005",
+        "title": "Cold Stream Crossing",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Icy water, clear mind.",
+        "fullDescription": "Forgot how sharp mountain water can be. Crossing this stream woke me right up.",
+        "link": "",
+        "hashtags": [
+            "outdoors",
+            "river",
+            "travel"
+        ],
+        "visibility": "public",
+        "createdAt": 1732008800
+    },
+    {
+        "cardId": "card_000040",
+        "userId": "user_006",
+        "title": "new sneaker test walk",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "breaking these in.",
+        "fullDescription": "got these yesterday and i’m already obsessed. the shape?? the stitching?? unreal.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "sneakers",
+            "style"
+        ],
+        "visibility": "public",
+        "createdAt": 1732008900
+    },
+    {
+        "cardId": "card_000041",
+        "userId": "user_007",
+        "title": "Dusty Library Corners",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Where history lingers.",
+        "fullDescription": "It always feels like the books whisper. A hundred lives pressed between pages, waiting for warm hands.",
+        "link": "",
+        "hashtags": [
+            "library",
+            "darkacademia",
+            "books"
+        ],
+        "visibility": "public",
+        "createdAt": 1732009000
+    },
+    {
+        "cardId": "card_000042",
+        "userId": "user_001",
+        "title": "Harsh Desert Lines",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Sand carved by wind.",
+        "fullDescription": "The desert always feels alien. No sound, no mercy, just shape and shadow battling for space.",
+        "link": "",
+        "hashtags": [
+            "desert",
+            "travel",
+            "photography"
+        ],
+        "visibility": "public",
+        "createdAt": 1732009100
+    },
+    {
+        "cardId": "card_000043",
+        "userId": "user_002",
+        "title": "Small Apartment Greens",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Little leaves, big joy.",
+        "fullDescription": "My windowsill is slowly turning into a tiny greenhouse. No regrets.",
+        "link": "",
+        "hashtags": [
+            "plants",
+            "home",
+            "cozy"
+        ],
+        "visibility": "public",
+        "createdAt": 1732009200
+    },
+    {
+        "cardId": "card_000044",
+        "userId": "user_003",
+        "title": "controller drift",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "she served well",
+        "fullDescription": "rip to my fav controller. the drift got so bad it started moving on its own like a horror movie.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "controller",
+            "rip"
+        ],
+        "visibility": "public",
+        "createdAt": 1732009300
+    },
+    {
+        "cardId": "card_000045",
+        "userId": "user_004",
+        "title": "Muted Ceramic Shelf",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Soft color harmony.",
+        "fullDescription": "Adding one new piece at a time. Letting the shelf become a quiet archive of shapes I love.",
+        "link": "",
+        "hashtags": [
+            "ceramics",
+            "minimal",
+            "home"
+        ],
+        "visibility": "public",
+        "createdAt": 1732009400
+    },
+    {
+        "cardId": "card_000046",
+        "userId": "user_005",
+        "title": "Forest Mist Break",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Soft fog rolling in.",
+        "fullDescription": "Paused here for water and just listened. The forest sounded like it was breathing.",
+        "link": "",
+        "hashtags": [
+            "forest",
+            "outdoors",
+            "mist"
+        ],
+        "visibility": "public",
+        "createdAt": 1732009500
+    },
+    {
+        "cardId": "card_000047",
+        "userId": "user_006",
+        "title": "vintage jacket find (!!)",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "she’s perfect.",
+        "fullDescription": "scored this thrifted piece today. it fits like it was tailored for me. easily top 5 find of the year.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "thrift",
+            "style"
+        ],
+        "visibility": "public",
+        "createdAt": 1732009600
+    },
+    {
+        "cardId": "card_000048",
+        "userId": "user_007",
+        "title": "Evening Courtyard Silence",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Soft echoes in stone.",
+        "fullDescription": "Courtyards at dusk always feel like they’re holding stories. Footsteps fade, and the air becomes almost theatrical.",
+        "link": "",
+        "hashtags": [
+            "darkacademia",
+            "architecture",
+            "evening"
+        ],
+        "visibility": "public",
+        "createdAt": 1732009700
+    },
+    {
+        "cardId": "card_000049",
+        "userId": "user_001",
+        "title": "Railway Perspective",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1476610182048-b716b8518aae?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Lines that lead everywhere.",
+        "fullDescription": "Found this on a drive. Something about railways makes me think in long sentences.",
+        "link": "",
+        "hashtags": [
+            "railway",
+            "perspective",
+            "travel"
+        ],
+        "visibility": "public",
+        "createdAt": 1732009800
+    },
+    {
+        "cardId": "card_000050",
+        "userId": "user_002",
+        "title": "Café Notebook Spread",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Ink + pastries = perfection.",
+        "fullDescription": "Spent an hour doodling while people-watching. The background hum of chatter makes focusing easier somehow.",
+        "link": "",
+        "hashtags": [
+            "cafe",
+            "notes",
+            "cozy"
+        ],
+        "visibility": "public",
+        "createdAt": 1732009900
+    },
+    {
+        "cardId": "card_000051",
+        "userId": "user_003",
+        "title": "midnight pizza haul",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "late-night cravings satisfied",
+        "fullDescription": "ordered a pizza at 12:30am. toppings perfectly scattered, cheese pulling like a dream. squad approves.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "food",
+            "late-night"
+        ],
+        "visibility": "public",
+        "createdAt": 1732010000
+    },
+    {
+        "cardId": "card_000052",
+        "userId": "user_004",
+        "title": "Minimalist Desk Setup",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Clean lines, calm mind.",
+        "fullDescription": "Reorganized my desk for ultimate minimal vibes. Everything has a place and a purpose now.",
+        "link": "",
+        "hashtags": [
+            "minimalist",
+            "desk",
+            "organization"
+        ],
+        "visibility": "public",
+        "createdAt": 1732010100
+    },
+    {
+        "cardId": "card_000053",
+        "userId": "user_005",
+        "title": "Sunrise Summit",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "First light over peaks.",
+        "fullDescription": "Made it to the top just as the sun broke the horizon. The world felt infinite and still.",
+        "link": "",
+        "hashtags": [
+            "hiking",
+            "sunrise",
+            "mountains"
+        ],
+        "visibility": "public",
+        "createdAt": 1732010200
+    },
+    {
+        "cardId": "card_000054",
+        "userId": "user_006",
+        "title": "t-shirtss",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1523381294911-8d3cead13475?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "t-shirts with more t-shirts",
+        "fullDescription": "might even be wearable in public.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "t-shirt",
+            "hot take"
+        ],
+        "visibility": "public",
+        "createdAt": 1732010300
+    },
+    {
+        "cardId": "card_000055",
+        "userId": "user_007",
+        "title": "Moonlit Cloisters",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Silent stone and shadows.",
+        "fullDescription": "Walking the cloisters at night is like stepping inside a story. Each shadow a character waiting to move.",
+        "link": "",
+        "hashtags": [
+            "darkacademia",
+            "architecture",
+            "night"
+        ],
+        "visibility": "public",
+        "createdAt": 1732010400
+    },
+    {
+        "cardId": "card_000056",
+        "userId": "user_001",
+        "title": "Coastal Mist Morning",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Salt air and fog.",
+        "fullDescription": "Waves whisper against the rocks. The early fog blurs everything, and for a moment, time doesn’t exist.",
+        "link": "",
+        "hashtags": [
+            "coast",
+            "fog",
+            "photography"
+        ],
+        "visibility": "public",
+        "createdAt": 1732010500
+    },
+    {
+        "cardId": "card_000057",
+        "userId": "user_002",
+        "title": "Table Counter Close-up",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Food perfection.",
+        "fullDescription": "Everything in the display looks like it's been staged",
+        "link": "",
+        "hashtags": [
+            "bakery",
+            "food",
+            "cozy"
+        ],
+        "visibility": "public",
+        "createdAt": 1732010600
+    },
+    {
+        "cardId": "card_000058",
+        "userId": "user_003",
+        "title": "keyboard glow vibes",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "RGB on, focus on",
+        "fullDescription": "Late-night grind. The glow of the keys somehow makes everything feel epic and infinite.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "setup",
+            "night"
+        ],
+        "visibility": "public",
+        "createdAt": 1732010700
+    },
+    {
+        "cardId": "card_000059",
+        "userId": "user_004",
+        "title": "Soft Morning Light",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Neutral tones, peaceful start.",
+        "fullDescription": "Morning light spills across my bed and desk. Everything looks like it’s holding its breath.",
+        "link": "",
+        "hashtags": [
+            "interior",
+            "light",
+            "minimalist"
+        ],
+        "visibility": "public",
+        "createdAt": 1732010800
+    },
+    {
+        "cardId": "card_000060",
+        "userId": "user_005",
+        "title": "Rocky Trail Overlook",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Breathtaking height, minimal effort.",
+        "fullDescription": "After a long climb, reaching this spot felt like breathing for the first time. Nature’s therapy.",
+        "link": "",
+        "hashtags": [
+            "hike",
+            "mountains",
+            "outdoors"
+        ],
+        "visibility": "public",
+        "createdAt": 1732010900
+    },
+    {
+        "cardId": "card_000061",
+        "userId": "user_006",
+        "title": "vintage scarf drape",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "throwback aesthetic",
+        "fullDescription": "layered this scarf over a simple outfit. feels like it was pulled from a movie set from the 70s.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "vintage",
+            "accessories"
+        ],
+        "visibility": "public",
+        "createdAt": 1732011000
+    },
+    {
+        "cardId": "card_000062",
+        "userId": "user_007",
+        "title": "Sunset Cloister Shadows",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "long shadows, soft gold.",
+        "fullDescription": "Sunset turns the cloisters into an orchestra of light and shadow. Can’t stop staring.",
+        "link": "",
+        "hashtags": [
+            "darkacademia",
+            "sunset",
+            "architecture"
+        ],
+        "visibility": "public",
+        "createdAt": 1732011100
+    },
+    {
+        "cardId": "card_000063",
+        "userId": "user_001",
+        "title": "Lighthouse Horizon",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Guiding lights afar.",
+        "fullDescription": "Lighthouse standing firm. Waves crash in sync with my heartbeat. Love the solitude here.",
+        "link": "",
+        "hashtags": [
+            "coast",
+            "lighthouse",
+            "photography"
+        ],
+        "visibility": "public",
+        "createdAt": 1732011200
+    },
+    {
+        "cardId": "card_000064",
+        "userId": "user_002",
+        "title": "Window Glow",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1489171078254-c3365d6e359f?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Atmosphere.",
+        "fullDescription": "Cozy vibes, always.",
+        "link": "",
+        "hashtags": [
+            "light",
+            "cozy"
+        ],
+        "visibility": "public",
+        "createdAt": 1732011300
+    },
+    {
+        "cardId": "card_000065",
+        "userId": "user_003",
+        "title": "gaming chair throne",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "comfy but deadly",
+        "fullDescription": "Hours in this chair make me feel like a king of my kingdom, also slightly sore.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "setup",
+            "comfort"
+        ],
+        "visibility": "public",
+        "createdAt": 1732011400
+    },
+    {
+        "cardId": "card_000066",
+        "userId": "user_004",
+        "title": "Quiet White Corner",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1501876725168-00c445821c9e?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Minimalist peace spot.",
+        "fullDescription": "My corner desk for writing and thinking. No clutter, no distractions, just calm.",
+        "link": "",
+        "hashtags": [
+            "minimalist",
+            "desk",
+            "light"
+        ],
+        "visibility": "public",
+        "createdAt": 1732011500
+    },
+    {
+        "cardId": "card_000067",
+        "userId": "user_005",
+        "title": "Hidden Waterfall Nook",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Secret nature rewards.",
+        "fullDescription": "Stumbled upon this waterfall after a tricky hike. Worth every misstep and muddy shoe.",
+        "link": "",
+        "hashtags": [
+            "waterfall",
+            "outdoors",
+            "hike"
+        ],
+        "visibility": "public",
+        "createdAt": 1732011600
+    },
+    {
+        "cardId": "card_000068",
+        "userId": "user_006",
+        "title": "patterned sock flex",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=1200",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "socks with personality",
+        "fullDescription": "Nothing like colorful socks to elevate a monochrome outfit. tiny details matter.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "accessories",
+            "style"
+        ],
+        "visibility": "public",
+        "createdAt": 1732011700
+    },
+    {
+        "cardId": "card_000069",
+        "userId": "user_007",
+        "title": "Library Alcove Light",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Soft corners, soft thoughts.",
+        "fullDescription": "An alcove in the library that feels like it exists only for quiet contemplation.",
+        "link": "",
+        "hashtags": [
+            "library",
+            "darkacademia",
+            "light"
+        ],
+        "visibility": "public",
+        "createdAt": 1732011800
+    },
+    {
+        "cardId": "card_000070",
+        "userId": "user_001",
+        "title": "Golden Wheat Field",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Swaying gold under sun.",
+        "fullDescription": "Walked through this field at golden hour. Every stalk seems alive, moving with the wind’s whisper.",
+        "link": "",
+        "hashtags": [
+            "field",
+            "sunset",
+            "nature"
+        ],
+        "visibility": "public",
+        "createdAt": 1732011900
+    },
+    {
+        "cardId": "card_000071",
+        "userId": "user_002",
+        "title": "Espresso Shot Ritual",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Tiny cup, big kick.",
+        "fullDescription": "Every morning, precise espresso shots remind me that life is as much ritual as it is action.",
+        "link": "",
+        "hashtags": [
+            "coffee",
+            "morning",
+            "cozy"
+        ],
+        "visibility": "public",
+        "createdAt": 1732012000
+    },
+    {
+        "cardId": "card_000072",
+        "userId": "user_003",
+        "title": "console upgrade excitement",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "finally new tech",
+        "fullDescription": "Upgraded the console tonight. FPS, graphics, smoothness. all checked.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "console",
+            "setup"
+        ],
+        "visibility": "public",
+        "createdAt": 1732012100
+    },
+    {
+        "cardId": "card_000073",
+        "userId": "user_004",
+        "title": "Minimalist Kitchen Vibes",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Clean, simple, serene.",
+        "fullDescription": "Rearranged kitchen tools for a clear countertop. Feeling like I can breathe easier already.",
+        "link": "",
+        "hashtags": [
+            "minimalist",
+            "kitchen",
+            "home"
+        ],
+        "visibility": "public",
+        "createdAt": 1732012200
+    },
+    {
+        "cardId": "card_000074",
+        "userId": "user_005",
+        "title": "Misty Mountain Trail",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Clouds kissing peaks.",
+        "fullDescription": "Trail lost in mist. Every step feels suspended in a soft, cool dream.",
+        "link": "",
+        "hashtags": [
+            "mountains",
+            "fog",
+            "hike"
+        ],
+        "visibility": "public",
+        "createdAt": 1732012300
+    },
+    {
+        "cardId": "card_000075",
+        "userId": "user_006",
+        "title": "Statement Jacket Day",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Let the jacket speak.",
+        "fullDescription": "Wore my boldest jacket today. Sometimes fashion needs to do the talking for you.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "style",
+            "outerwear"
+        ],
+        "visibility": "public",
+        "createdAt": 1732012400
+    },
+    {
+        "cardId": "card_000076",
+        "userId": "user_007",
+        "title": "Library",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Raindrops and quiet pages.",
+        "fullDescription": "Watching the rain from the alcove, while leafing through ancient tomes. Perfect gray afternoon.",
+        "link": "",
+        "hashtags": [
+            "darkacademia",
+            "rain",
+            "library"
+        ],
+        "visibility": "public",
+        "createdAt": 1732012500
+    },
+    {
+        "cardId": "card_000077",
+        "userId": "user_001",
+        "title": "Coastal Cliff Walk",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Breeze and endless horizon.",
+        "fullDescription": "Walking along the cliffs. The smell of salt and the roar of waves makes every worry fade.",
+        "link": "",
+        "hashtags": [
+            "coast",
+            "photography",
+            "hike"
+        ],
+        "visibility": "public",
+        "createdAt": 1732012600
+    },
+    {
+        "cardId": "card_000078",
+        "userId": "user_002",
+        "title": "Morning Pastry Ritual",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1473187983305-f615310e7daa?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Golden croissants in hand.",
+        "fullDescription": "Coffee and fresh pastries, watching the city wake up. Little joys, fully savored.",
+        "link": "",
+        "hashtags": [
+            "coffee",
+            "pastry",
+            "cozy"
+        ],
+        "visibility": "public",
+        "createdAt": 1732012700
+    },
+    {
+        "cardId": "card_000079",
+        "userId": "user_003",
+        "title": "RGB Desk Sunset",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "Gaming setup, sunset mood.",
+        "fullDescription": "Sun dips behind the curtains, but my desk glows in full RGB glory. Work and play collide.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "setup",
+            "sunset"
+        ],
+        "visibility": "public",
+        "createdAt": 1732012800
+    },
+    {
+        "cardId": "card_000080",
+        "userId": "user_004",
+        "title": "Serene White Workspace",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Clutter-free calm.",
+        "fullDescription": "All tools neatly aligned. The white surfaces reflect the morning light. Peaceful work vibes.",
+        "link": "",
+        "hashtags": [
+            "minimalist",
+            "desk",
+            "workspace"
+        ],
+        "visibility": "public",
+        "createdAt": 1732012900
+    },
+    {
+        "cardId": "card_000081",
+        "userId": "user_005",
+        "title": "Alpine Overlook",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Above the clouds.",
+        "fullDescription": "Standing at the edge of this alpine trail, clouds stretch below. Quiet awe, pure freedom.",
+        "link": "",
+        "hashtags": [
+            "mountains",
+            "hiking",
+            "outdoors"
+        ],
+        "visibility": "public",
+        "createdAt": 1732013000
+    },
+    {
+        "cardId": "card_000082",
+        "userId": "user_006",
+        "title": "Monochrome Outfit Day",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Black and white, always right.",
+        "fullDescription": "Simple monochrome outfit. Accessories subtle. Sometimes less is indeed more.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "style",
+            "minimalist"
+        ],
+        "visibility": "public",
+        "createdAt": 1732013100
+    },
+    {
+        "cardId": "card_000083",
+        "userId": "user_007",
+        "title": "Midnight Library Corners",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Whispers of old books.",
+        "fullDescription": "Quiet night, walking through library corridors. Every shadow tells a story.",
+        "link": "",
+        "hashtags": [
+            "darkacademia",
+            "library",
+            "night"
+        ],
+        "visibility": "public",
+        "createdAt": 1732013200
+    },
+    {
+        "cardId": "card_000084",
+        "userId": "user_001",
+        "title": "Sunset Beach Reflections",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Golden light on water.",
+        "fullDescription": "Watching the sun dip behind the horizon. Waves gently lap at my feet. Perfect moment.",
+        "link": "",
+        "hashtags": [
+            "beach",
+            "sunset",
+            "photography"
+        ],
+        "visibility": "public",
+        "createdAt": 1732013300
+    },
+    {
+        "cardId": "card_000085",
+        "userId": "user_002",
+        "title": "Croissant & Latte Morning",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Sunlight and pastry aroma.",
+        "fullDescription": "Every morning feels special with a perfectly made croissant and latte. Cozy city mornings.",
+        "link": "",
+        "hashtags": [
+            "cozy",
+            "coffee",
+            "pastry"
+        ],
+        "visibility": "public",
+        "createdAt": 1732013400
+    },
+    {
+        "cardId": "card_000086",
+        "userId": "user_003",
+        "title": "Controller Vibes",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "Ready for conquest.",
+        "fullDescription": "Hands on the controller, headset on. Virtual battles await, caffeine in reach.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "console",
+            "nightlife"
+        ],
+        "visibility": "public",
+        "createdAt": 1732013500
+    },
+    {
+        "cardId": "card_000087",
+        "userId": "user_004",
+        "title": "Minimalist Reading Nook",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "White walls, warm light.",
+        "fullDescription": "Corner for reflection and reading. Minimalist style keeps distractions away.",
+        "link": "",
+        "hashtags": [
+            "minimalist",
+            "reading",
+            "home"
+        ],
+        "visibility": "public",
+        "createdAt": 1732013600
+    },
+    {
+        "cardId": "card_000088",
+        "userId": "user_005",
+        "title": "Forest Stream Pause",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Water and mossy rocks.",
+        "fullDescription": "Stopped to listen to a stream deep in the forest. Pure calm washes over me.",
+        "link": "",
+        "hashtags": [
+            "forest",
+            "stream",
+            "outdoors"
+        ],
+        "visibility": "public",
+        "createdAt": 1732013700
+    },
+    {
+        "cardId": "card_000089",
+        "userId": "user_006",
+        "title": "Bold Coat Walk",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Walked in statement style.",
+        "fullDescription": "Layered the bright coat over muted tones. Feeling confident and noticed.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "outerwear",
+            "style"
+        ],
+        "visibility": "public",
+        "createdAt": 1732013800
+    },
+    {
+        "cardId": "card_000090",
+        "userId": "user_007",
+        "title": "Candlelit Library Study",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Flickering thoughts.",
+        "fullDescription": "Studying by candlelight, every page feels alive. Time slows, ideas deepen.",
+        "link": "",
+        "hashtags": [
+            "darkacademia",
+            "library",
+            "candlelight"
+        ],
+        "visibility": "public",
+        "createdAt": 1732013900
+    },
+    {
+        "cardId": "card_000091",
+        "userId": "user_001",
+        "title": "Cliffside Lighthouse View",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Guiding light over waves.",
+        "fullDescription": "The lighthouse beams cut through dusk. Feeling small, peaceful, alive.",
+        "link": "",
+        "hashtags": [
+            "lighthouse",
+            "photography",
+            "coast"
+        ],
+        "visibility": "public",
+        "createdAt": 1732014000
+    },
+    {
+        "cardId": "card_000092",
+        "userId": "user_002",
+        "title": "Morning Bakery Window",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Croissants in the light.",
+        "fullDescription": "Watching the baker arrange pastries. Everything glows under morning sun.",
+        "link": "",
+        "hashtags": [
+            "bakery",
+            "morning",
+            "cozy"
+        ],
+        "visibility": "public",
+        "createdAt": 1732014100
+    },
+    {
+        "cardId": "card_000093",
+        "userId": "user_003",
+        "title": "Late Night Strategy",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1603481546579-65d935ba9cdd?auto=format&fit=crop&w=1200&q=80",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "Planning the next win.",
+        "fullDescription": "Headset on, game on. Calculating every move in the final round.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "strategy",
+            "setup"
+        ],
+        "visibility": "public",
+        "createdAt": 1732014200
+    },
+    {
+        "cardId": "card_000094",
+        "userId": "user_004",
+        "title": "Morning Minimalist Kitchen",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Clear counters, bright light.",
+        "fullDescription": "Everything in its place. The first cup of coffee tastes better in a clean space.",
+        "link": "",
+        "hashtags": [
+            "minimalist",
+            "kitchen",
+            "morning"
+        ],
+        "visibility": "public",
+        "createdAt": 1732014300
+    },
+    {
+        "cardId": "card_000095",
+        "userId": "user_005",
+        "title": "Foggy Mountain Trail",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Lost in clouds.",
+        "fullDescription": "Hiking through fog. Every tree appears mystical. Nature’s secrets unveiled slowly.",
+        "link": "",
+        "hashtags": [
+            "hiking",
+            "fog",
+            "mountains"
+        ],
+        "visibility": "public",
+        "createdAt": 1732014400
+    },
+    {
+        "cardId": "card_000096",
+        "userId": "user_006",
+        "title": "Pattern Play Accessories",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=1200",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "Small details, big impact.",
+        "fullDescription": "Accessories elevate the simplest outfit. Today, socks and scarf do the talking.",
+        "link": "",
+        "hashtags": [
+            "fashion",
+            "accessories",
+            "style"
+        ],
+        "visibility": "public",
+        "createdAt": 1732014500
+    },
+    {
+        "cardId": "card_000097",
+        "userId": "user_007",
+        "title": "Twilight Library Stroll",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200",
+                "width": 1080,
+                "height": 1350
+            }
+        ],
+        "shortDescription": "Evening shadows, warm wood.",
+        "fullDescription": "Walking between shelves as the day fades. Candles flicker, stories whisper.",
+        "link": "",
+        "hashtags": [
+            "darkacademia",
+            "library",
+            "twilight"
+        ],
+        "visibility": "public",
+        "createdAt": 1732014600
+    },
+    {
+        "cardId": "card_000098",
+        "userId": "user_001",
+        "title": "Sunset Waves Reflection",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Golden shimmer on surf.",
+        "fullDescription": "Waves reflecting the sun as it dips. Perfect light for reflection and photos.",
+        "link": "",
+        "hashtags": [
+            "sunset",
+            "beach",
+            "photography"
+        ],
+        "visibility": "public",
+        "createdAt": 1732014700
+    },
+    {
+        "cardId": "card_000099",
+        "userId": "user_002",
+        "title": "Morning Coffee Ritual",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200",
+                "width": 1080,
+                "height": 720
+            }
+        ],
+        "shortDescription": "Steam and serenity.",
+        "fullDescription": "Sitting by the window, first sip of coffee in hand. City slowly wakes up.",
+        "link": "",
+        "hashtags": [
+            "coffee",
+            "morning",
+            "cozy"
+        ],
+        "visibility": "public",
+        "createdAt": 1732014800
+    },
+    {
+        "cardId": "card_000100",
+        "userId": "user_003",
+        "title": "Final Round Focus",
+        "media": [
+            {
+                "type": "image",
+                "url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=1200",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "shortDescription": "Concentration peak.",
+        "fullDescription": "Eyes on the screen, hands steady. Victory or defeat, I’m fully in the moment.",
+        "link": "",
+        "hashtags": [
+            "gaming",
+            "focus",
+            "night"
+        ],
+        "visibility": "public",
+        "createdAt": 1732014900
+    }
+]

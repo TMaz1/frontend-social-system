@@ -1,0 +1,32 @@
+@use "../../styles/variables" as *;
+
+.saveBtn {
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-family: $font-sans;
+    cursor: pointer;
+    background: #f4f4f4;
+    border: 1px solid $grey-100;
+    color: $grey-700;
+
+    &.active {
+        background: $grey-900;
+        color: $white-soft;
+        border-color: $black-deep;
+    }
+}
+
+.addBtn {
+    padding: 8px 14px;
+    border-radius: 6px;
+    background: #e5e5e5;
+    border: 1px solid $grey-100;
+    font-family: $font-sans;
+    color: $grey-700;
+
+    cursor: pointer;
+
+    &:hover {
+        background: $grey-100;
+    }
+}

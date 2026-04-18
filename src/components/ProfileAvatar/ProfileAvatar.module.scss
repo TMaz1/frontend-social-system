@@ -1,0 +1,56 @@
+@use "../../styles/variables" as *;
+
+.avatarContainer {
+    position: relative;
+    width: 96px;
+    height: 96px;
+}
+
+.avatarWrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    overflow: hidden;
+    background: $grey-900;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.avatar {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.placeholder {
+    font-family: $font-sans;
+    font-size: 12px;
+    color: $grey-600;
+    letter-spacing: 0.02em;
+}
+
+.editBadge {
+    position: absolute;
+    bottom: 4px;
+    right: 4px;
+
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: $grey-800;
+    color: $white-soft;
+
+    cursor: pointer;
+    z-index: 10;
+
+    &:input {
+        display: none;
+    }
+}

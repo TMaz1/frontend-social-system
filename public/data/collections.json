@@ -1,0 +1,247 @@
+[
+    {
+        "collectionId": "col_000001",
+        "userId": "user_000001",
+        "title": "Soft Light Portraits",
+        "description": "Images collected for future portrait references.",
+        "createdAt": 1732000100
+    },
+    {
+        "collectionId": "col_000002",
+        "userId": "user_000001",
+        "title": "Travel Inspiration",
+        "description": "Places I want to shoot in the next few years.",
+        "createdAt": 1732000200
+    },
+    {
+        "collectionId": "col_000004",
+        "userId": "user_000001",
+        "title": "Coffee Moments",
+        "description": "Warm, quiet café vibes.",
+        "createdAt": 1732000300
+    },
+    {
+        "collectionId": "col_000018",
+        "userId": "user_000001",
+        "title": "Color Studies",
+        "description": "Interesting tones I want to explore in future edits.",
+        "createdAt": 1732000400
+    },
+    {
+        "collectionId": "col_000019",
+        "userId": "user_000001",
+        "title": "People & Expressions",
+        "description": "Faces that tell stories.",
+        "createdAt": 1732000500
+    },
+    {
+        "collectionId": "col_000003",
+        "userId": "user_000002",
+        "title": "Café Corners",
+        "description": "My favorite café interiors from around NYC.",
+        "createdAt": 1732000600
+    },
+    {
+        "collectionId": "col_000005",
+        "userId": "user_000002",
+        "title": "NYC Moments",
+        "description": "Street shots and details from my city walks.",
+        "createdAt": 1732000700
+    },
+    {
+        "collectionId": "col_000020",
+        "userId": "user_000002",
+        "title": "Warm Aesthetic",
+        "description": "Warm tones that feel like autumn.",
+        "createdAt": 1732000800
+    },
+    {
+        "collectionId": "col_000021",
+        "userId": "user_000002",
+        "title": "Bookish Vibes",
+        "description": "Cozy, reading-friendly atmospheres.",
+        "createdAt": 1732000900
+    },
+    {
+        "collectionId": "col_000006",
+        "userId": "user_000003",
+        "title": "Gaming Aesthetics",
+        "description": "Cool colour palettes + setups I like.",
+        "createdAt": 1732001000
+    },
+    {
+        "collectionId": "col_000007",
+        "userId": "user_000003",
+        "title": "Stream Ideas",
+        "description": "Future stream themes maybe??",
+        "createdAt": 1732001100
+    },
+    {
+        "collectionId": "col_000008",
+        "userId": "user_000003",
+        "title": "Vibes",
+        "description": "Random things that feel like me tbh.",
+        "createdAt": 1732001200
+    },
+    {
+        "collectionId": "col_000022",
+        "userId": "user_000003",
+        "title": "Character Energy",
+        "description": "For cosplay inspo + avatar moods.",
+        "createdAt": 1732001300
+    },
+    {
+        "collectionId": "col_000023",
+        "userId": "user_000003",
+        "title": "Color Pop",
+        "description": "Neon + bold palettes I'm obsessed with.",
+        "createdAt": 1732001400
+    },
+    {
+        "collectionId": "col_000024",
+        "userId": "user_000003",
+        "title": "Aesthetic Screenshots",
+        "description": "In-game shots I want to recreate.",
+        "createdAt": 1732001500
+    },
+    {
+        "collectionId": "col_000025",
+        "userId": "user_000003",
+        "title": "Setups",
+        "description": "Clean setups, RGB setups, everything setups.",
+        "createdAt": 1732001600
+    },
+    {
+        "collectionId": "col_000009",
+        "userId": "user_000004",
+        "title": "Living Room Ideas",
+        "description": "Soft neutral spaces with intention.",
+        "createdAt": 1732001700
+    },
+    {
+        "collectionId": "col_000010",
+        "userId": "user_000004",
+        "title": "Calm Bedrooms",
+        "description": "Minimal cozy rooms for better sleep.",
+        "createdAt": 1732001800
+    },
+    {
+        "collectionId": "col_000011",
+        "userId": "user_000004",
+        "title": "Decor Details",
+        "description": "Texture, tone, materials.",
+        "createdAt": 1732001900
+    },
+    {
+        "collectionId": "col_000012",
+        "userId": "user_000004",
+        "title": "Minimal Lifestyle",
+        "description": "Inspiration for living intentionally.",
+        "createdAt": 1732002000
+    },
+    {
+        "collectionId": "col_000013",
+        "userId": "user_000005",
+        "title": "Mountain Trails",
+        "description": "Routes I want to run next season.",
+        "createdAt": 1732002100
+    },
+    {
+        "collectionId": "col_000014",
+        "userId": "user_000005",
+        "title": "Climbing Routes",
+        "description": "Dream climbs + bucket list walls.",
+        "createdAt": 1732002200
+    },
+    {
+        "collectionId": "col_000015",
+        "userId": "user_000005",
+        "title": "Gear Wishlist",
+        "description": "Backpacks, boots, and essentials.",
+        "createdAt": 1732002300
+    },
+    {
+        "collectionId": "col_000016",
+        "userId": "user_000005",
+        "title": "Nature Photography",
+        "description": "Scenes that make me stop breathing for a sec.",
+        "createdAt": 1732002400
+    },
+    {
+        "collectionId": "col_000026",
+        "userId": "user_000005",
+        "title": "Trail Vibes",
+        "description": "Textures, colors, and wilderness moods.",
+        "createdAt": 1732002500
+    },
+    {
+        "collectionId": "col_000027",
+        "userId": "user_000005",
+        "title": "Adventure Energy",
+        "description": "High-adrenaline inspo.",
+        "createdAt": 1732002600
+    },
+    {
+        "collectionId": "col_000028",
+        "userId": "user_000005",
+        "title": "Forest Wanderings",
+        "description": "Greens, fog, trees.",
+        "createdAt": 1732002700
+    },
+    {
+        "collectionId": "col_000029",
+        "userId": "user_000005",
+        "title": "Running Motivation",
+        "description": "Images that make me lace up instantly.",
+        "createdAt": 1732002800
+    },
+    {
+        "collectionId": "col_000017",
+        "userId": "user_000006",
+        "title": "Outfit Ideas",
+        "description": "Fits I wanna recreate.",
+        "createdAt": 1732002900
+    },
+    {
+        "collectionId": "col_000030",
+        "userId": "user_000006",
+        "title": "Streetwear Moodboard",
+        "description": "Urban textures + silhouettes.",
+        "createdAt": 1732003000
+    },
+    {
+        "collectionId": "col_000031",
+        "userId": "user_000006",
+        "title": "Muted Fits",
+        "description": "Neutral tones done right.",
+        "createdAt": 1732003100
+    },
+    {
+        "collectionId": "col_000032",
+        "userId": "user_000006",
+        "title": "Patterns",
+        "description": "Checks, stripes, layering ideas.",
+        "createdAt": 1732003200
+    },
+    {
+        "collectionId": "col_000033",
+        "userId": "user_000006",
+        "title": "High Fashion Shapes",
+        "description": "Avant-garde silhouettes I love.",
+        "createdAt": 1732003300
+    },
+    {
+        "collectionId": "col_000034",
+        "userId": "user_000006",
+        "title": "Color Blocking",
+        "description": "Bold contrasts for statement outfits.",
+        "createdAt": 1732003400
+    },
+    {
+        "collectionId": "col_000035",
+        "userId": "user_000007",
+        "title": "Empty Test Collection",
+        "description": "A collection intentionally left empty for testing.",
+        "createdAt": 1732003500
+    }
+]

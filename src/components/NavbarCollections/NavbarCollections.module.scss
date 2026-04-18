@@ -1,0 +1,129 @@
+@use "../../styles/variables" as *;
+
+/* -------------------------------------------------------
+   SCROLLABLE TAB WRAPPER
+------------------------------------------------------- */
+.row {
+    display: flex;
+    gap: 12px;
+    padding: 8px 4px;
+    white-space: nowrap;
+    align-items: center;
+}
+
+/* -------------------------------------------------------
+   TAB STYLE
+------------------------------------------------------- */
+.tab {
+    padding: 10px 22px;
+    background: $white-soft;
+    color: $grey-700;
+    border-radius: 24px;
+    border: 1px solid transparent;
+
+    font-family: $font-serif;
+    font-size: 16px;
+    font-weight: 300;
+
+    cursor: pointer;
+    transition: all 0.2s ease;
+    scroll-snap-align: center;
+
+    &:hover {
+        background: $white-soft;
+        border-color: $grey-600;
+    }
+}
+
+.active {
+    border-color: $grey-300;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+/* -------------------------------------------------------
+   DRAGGING STATE
+------------------------------------------------------- */
+.dragging {
+    opacity: 0.5;
+    transform: scale(0.96);
+}
+
+/* -------------------------------------------------------
+   NAVBAR CONTAINER
+------------------------------------------------------- */
+.navbarWrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.scrollArea {
+    flex: 1;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    min-width: 0;
+}
+
+.scrollArea::-webkit-scrollbar {
+    display: none;
+}
+
+.menuContainer {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+}
+
+/* -------------------------------------------------------
+   MENU ICON BUTTON (...)
+------------------------------------------------------- */
+.icon {
+    margin-left: 4px;
+    border: none;
+    background: transparent;
+    font-size: 20px;
+    cursor: pointer;
+    color: $grey-700;
+
+    &:hover {
+        color: $grey-900;
+    }
+}
+
+/* -------------------------------------------------------
+   PORTAL DROPDOWN MENU (NO OVERFLOW CLIPPING)
+------------------------------------------------------- */
+.menuPortal {
+    position: absolute;
+    z-index: 10000;
+    background: white;
+    border: 1px solid $grey-300;
+    border-radius: 8px;
+    padding: 8px 0;
+    min-width: 180px;
+    max-width: calc(100vw - 16px);
+
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+
+    button {
+        padding: 10px 16px;
+        width: 100%;
+        background: none;
+        border: none;
+        text-align: left;
+        font-size: 14px;
+        cursor: pointer;
+        color: $grey-900;
+
+        &:hover {
+            background: $grey-100;
+        }
+    }
+}

@@ -1,0 +1,256 @@
+@use "../../styles/variables" as *;
+
+.navbar {
+    width: 100%;
+    padding: 8px 48px;
+    background: $grey-900;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    z-index: 2000;
+    top: 0;
+    transition: top 0.25s ease, padding 0.25s ease, background 0.3s;
+
+    @media (max-width: 500px) {
+        padding: 12px 20px;
+    }
+}
+
+body.banner-visible .navbar {
+    top: 36px;
+}
+
+/* SHRINKED ON SCROLL */
+.shrunk {
+    padding: 5px 48px;
+    backdrop-filter: blur(6px);
+}
+
+/* LOGO */
+.logo {
+    font-family: $font-serif;
+    color: $white-soft;
+    font-size: 28px;
+    font-weight: 500;
+    letter-spacing: -0.05em;
+    text-decoration: none;
+
+    @media (max-width: 600px) {
+        font-size: 20px;
+    }
+}
+
+/* CENTER LINKS */
+.centerLinks {
+    display: flex;
+    gap: 32px;
+
+    a {
+        color: $white-soft;
+        text-decoration: none;
+        font-family: $font-sans;
+        font-size: 14px;
+        transition: opacity 0.25s;
+
+        &:hover {
+            opacity: 1;
+        }
+    }
+
+    @media (max-width: 1024px) {
+        display: none;
+    }
+}
+
+/* RIGHT SECTION */
+.right {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+/* SEARCH BUTTON */
+.searchBtn {
+    background: $grey-900;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: $white-soft;
+    cursor: pointer;
+
+    font-size: 17px;
+    padding: 10px;
+}
+
+/* SIGNUP */
+.navbarBtn {
+    padding: 12px 18px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 4px;
+    font-size: 13px;
+    color: $white-soft;
+    background: transparent;
+    text-decoration: none;
+    font-family: $font-sans;
+    transition: all 0.25s;
+
+    &:hover {
+        background: $white-soft;
+        color: $black-deep;
+    }
+
+    @media (max-width: 600px) {
+        padding: 6px 12px;
+        font-size: 12px;
+    }
+}
+
+/* BURGER MENU */
+.burger {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 26px;
+    color: $white-muted;
+    cursor: pointer;
+
+    @media (max-width: 1024px) {
+        display: block;
+    }
+}
+
+
+/* DESKTOP SEARCH CONTAINER (always visible) */
+.desktopSearchWrapper {
+    display: flex;
+    align-items: center;
+    background: #2d2d2d;
+    border-radius: 14px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    padding: 10px 14px;
+    width: 260px;
+    gap: 10px;
+
+    @media (min-width: 1200px) {
+        width: 340px;
+    }
+
+    @media (max-width: 1024px) {
+        display: none;
+    }
+}
+
+.desktopSearchWrapper input {
+    flex: 1;
+    background: none;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 15px;
+
+    &::placeholder {
+        color: rgba(255, 255, 255, 0.55);
+    }
+}
+
+.searchLeftIcon {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 18px;
+}
+
+.clearBtn {
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 20px;
+    cursor: pointer;
+
+    &:hover {
+        opacity: 1;
+    }
+}
+
+
+
+/* PROFILE ICON */
+.profileWrapper {
+    position: relative;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+}
+
+.profileIcon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: $grey-900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: $white-soft;
+    font-size: 20px;
+    transition: background 0.2s;
+
+    &:hover {
+        background: $grey-800;
+    }
+}
+
+/* DROPDOWN MENU */
+.dropdown {
+    position: absolute;
+    top: 48px;
+    right: 0;
+    background: $grey-900;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    min-width: 160px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+    z-index: 50;
+    animation: fadeIn 0.15s ease-out;
+
+    a,
+    button {
+        padding: 10px 16px;
+        font-size: 14px;
+        text-decoration: none;
+        color: $white-soft;
+        text-align: left;
+        background: none;
+        border: none;
+        width: 100%;
+        font-family: $font-sans;
+        cursor: pointer;
+
+        &:hover {
+            background: rgba(255, 255, 255, 0.07);
+        }
+    }
+
+    button {
+        text-align: left;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-4px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

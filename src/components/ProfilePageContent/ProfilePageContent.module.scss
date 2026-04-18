@@ -1,0 +1,92 @@
+@use "../../styles/variables" as *;
+
+.container {
+    width: 100%;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 24px 16px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+
+    position: relative;
+}
+
+.navbarRow {
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    display: block;
+}
+
+.actions {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.editBtn,
+.doneBtn {
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-family: $font-sans;
+    background: $grey-900;
+    color: $white-soft;
+    border: none;
+    cursor: pointer;
+    transition: background 0.2s;
+
+    &:hover {
+        background: $black-deep;
+        color: $white-soft;
+    }
+}
+
+.doneBtn {
+    padding: 10px 27px;
+}
+
+/* -------------------------------------------------------------
+   COLLECTION DESCRIPTION ROW ABOVE THE CARD GRID
+-------------------------------------------------------------- */
+.collectionHeaderRow {
+    display: flex;
+    align-items: center;
+    justify-content: center; // description centered
+    position: relative; // allows absolute positioning for button
+    margin-top: -12px;
+    margin-bottom: 8px;
+    min-height: 38px;
+}
+
+.collectionDescription {
+    font-family: $font-sans;
+    font-size: 1rem;
+    color: $black-deep;
+    text-align: center;
+    padding: 0 48px; // prevents overlap with Done button
+    max-width: 80%;
+    margin: 0 auto;
+    opacity: 0.85;
+}
+
+/* Done button inside description bar */
+.collectionHeaderRow .doneBtn {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+@keyframes fadein {
+    from {
+        opacity: 0;
+        transform: translateY(8px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

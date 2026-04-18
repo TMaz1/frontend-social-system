@@ -1,0 +1,102 @@
+/* DEFAULT GRID */
+.grid {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    display: grid;
+    overflow-x: hidden;
+
+    >* {
+        min-width: 0;
+    }
+
+    grid-template-columns: repeat(2, 1fr);
+
+    >* {
+        aspect-ratio: 1 / 1;
+    }
+
+    @media (min-width: 900px) {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    @media (min-width: 1400px) {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/* GRID 3x3 – denser */
+.grid3x3 {
+    grid-template-columns: repeat(3, 1fr);
+
+    >* {
+        aspect-ratio: 1 / 1;
+    }
+
+    @media (min-width: 900px) {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    @media (min-width: 1400px) {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
+/* MASONRY / STAGGERED */
+.masonry {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    column-width: 260px;
+    column-count: 2;
+    column-gap: 0;
+    overflow-x: hidden;
+
+    >* {
+        width: 100%;
+        break-inside: avoid;
+    }
+
+    @media (min-width: 700px) {
+        column-count: 3;
+    }
+
+    @media (min-width: 1400px) {
+        column-count: 4;
+    }
+}
+
+
+/* TALL */
+.tall {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+
+    >* {
+        aspect-ratio: 2 / 3;
+    }
+
+    @media (min-width: 900px) {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    @media (min-width: 1400px) {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
+/* LANDSCAPE */
+.landscape {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+
+    >* {
+        aspect-ratio: 16 / 9;
+    }
+
+    @media (min-width: 900px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (min-width: 1500px) {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

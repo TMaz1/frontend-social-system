@@ -1,0 +1,44 @@
+@use "../../styles/variables" as *;
+
+.container {
+    width: 100%;
+    max-width: 500px;
+    margin: 40px auto;
+
+    min-height: 220px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    gap: 12px;
+    text-align: center;
+
+    cursor: pointer;
+
+    border: 2px dashed rgba($white-soft, 0.15);
+    border-radius: 12px;
+
+    position: relative;
+    
+    pointer-events: auto;
+}
+
+.icon {
+    font-size: 32px;
+    opacity: 0.6;
+    color: $grey-700;
+}
+
+.title {
+    font-family: $font-sans;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.subtitle {
+    font-family: $font-sans;
+    font-size: 13px;
+    opacity: 0.6;
+}

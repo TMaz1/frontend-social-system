@@ -1,0 +1,123 @@
+[
+    {
+        "userId": "user_000001",
+        "email": "alex@example.com",
+        "username": "alexdoe",
+        "password": "hashed_pw_123",
+        "profileName": "Alex Doe",
+        "profileImageUrl": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=800",
+        "profileBio": "Travel + portrait photographer. I chase soft light and quiet moments.",
+        "links": {
+            "website": "https://alexdoe.com",
+            "instagram": "https://instagram.com/alexdoe",
+            "youtube": "https://youtube.com/@alexdoe",
+            "pinterest": "https://pinterest.com/alexdoe.photography"
+        },
+        "isDeleted": false,
+        "createdAt": 1700234000,
+        "updatedAt": 1732660000
+    },
+    {
+        "userId": "user_000002",
+        "email": "jane@example.com",
+        "username": "janesmith",
+        "password": "hashed_pw_abc",
+        "profileName": "Jane Smith",
+        "profileImageUrl": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?w=800",
+        "profileBio": "NYC café hopper | documenting cozy corners, warm cups, and quiet mornings.",
+        "links": {
+            "instagram": "https://instagram.com/jane.smith",
+            "tiktok": "https://tiktok.com/@janesips",
+            "website": "https://janesmithcafejournal.com"
+        },
+        "isDeleted": false,
+        "createdAt": 1700234100,
+        "updatedAt": 1732660100
+    },
+    {
+        "userId": "user_000003",
+        "email": "luna@ggstream.tv",
+        "username": "lunaris",
+        "password": "hashed_pw_gamer",
+        "profileName": "luna",
+        "profileImageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=800",
+        "profileBio": "i stream games + vibes only. lowercase forever. 🎮✨",
+        "links": {
+            "twitch": "https://twitch.tv/lunaris",
+            "youtube": "https://youtube.com/@lunaris",
+            "twitter": "https://twitter.com/lunaris_gg"
+        },
+        "isDeleted": false,
+        "createdAt": 1712000200,
+        "updatedAt": 1732660200
+    },
+    {
+        "userId": "user_000004",
+        "email": "mira.designs@example.com",
+        "username": "miraminimal",
+        "password": "hashed_pw_design",
+        "profileName": "Mira Lang",
+        "profileImageUrl": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=800",
+        "profileBio": "Minimalist interiors, neutral tones, and intentional living. Designing calm spaces.",
+        "links": {
+            "website": "https://miralang.design",
+            "pinterest": "https://pinterest.com/miraminimal",
+            "instagram": "https://instagram.com/miraminimal.design",
+            "youtube": "https://youtube.com/@miraminimal"
+        },
+        "isDeleted": false,
+        "createdAt": 1712000300,
+        "updatedAt": 1732660300
+    },
+    {
+        "userId": "user_000005",
+        "email": "ridge.runner@example.com",
+        "username": "ridge_runner",
+        "password": "hashed_pw_outdoors",
+        "profileName": "Evan Ridge",
+        "profileImageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800",
+        "profileBio": "Trail runner, climber, and weekend wanderer. Alive in the mountains.",
+        "links": {
+            "instagram": "https://instagram.com/ridgerunner",
+            "youtube": "https://youtube.com/@ridge_runner_outdoors",
+            "website": "https://evanridgeadventures.com"
+        },
+        "isDeleted": false,
+        "createdAt": 1712000400,
+        "updatedAt": 1732660400
+    },
+    {
+        "userId": "user_000006",
+        "email": "ava.stylist@example.com",
+        "username": "avastyled",
+        "password": "hashed_pw_fashion",
+        "profileName": "Ava Rial",
+        "profileImageUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800",
+        "profileBio": "Streetwear curator & thrift addict. I style moods, not outfits.",
+        "links": {
+            "instagram": "https://instagram.com/ava.rial",
+            "tiktok": "https://tiktok.com/@ava.styled",
+            "pinterest": "https://pinterest.com/ava.styles"
+        },
+        "isDeleted": false,
+        "createdAt": 1712000500,
+        "updatedAt": 1732660500
+    },
+    {
+        "userId": "user_000007",
+        "email": "alastair.reviews@example.com",
+        "username": "alastairreads",
+        "password": "hashed_pw_dark",
+        "profileName": "Alastair Rowan",
+        "profileImageUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800",
+        "profileBio": "Dark academia devotee. Long-form essays, film stills, late-night reading, and quietly obsessing over character arcs.",
+        "links": {
+            "website": "https://alastairrowan.com",
+            "twitter": "https://twitter.com/alastairreads",
+            "youtube": "https://youtube.com/@alastairreads"
+        },
+        "isDeleted": false,
+        "createdAt": 1712000600,
+        "updatedAt": 1732660600
+    }
+]

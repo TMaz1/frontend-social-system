@@ -1,0 +1,17 @@
+.socials {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 8px;
+
+    a {
+        font-size: 22px;
+        cursor: pointer;
+        transition: color 0.2s;
+
+        svg {
+            stroke-width: 1.4; // thinner icons
+            font-weight: 800;
+        }
+    }
+}

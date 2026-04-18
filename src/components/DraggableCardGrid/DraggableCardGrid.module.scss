@@ -1,0 +1,29 @@
+.gridWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.dragOverlay {
+    transform: scale(1.02);
+}
+
+.sortableCard, .dragOverlay {
+    user-select: none;
+    -webkit-user-drag: none; // prevent image drag in Safari/Chrome
+    -webkit-tap-highlight-color: transparent;
+}
+
+.reorderMode {
+    animation: jiggle 0.25s ease-in-out infinite alternate;
+}
+
+@keyframes jiggle {
+    from {
+        transform: rotate(-1deg) scale(1.02);
+    }
+
+    to {
+        transform: rotate(1deg) scale(1.02);
+    }
+}
