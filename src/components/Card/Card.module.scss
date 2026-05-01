@@ -159,6 +159,18 @@
     }
 }
 
+@media (max-width: 480px) {
+    .card {
+        .title {
+            font-size: 14px;
+        }
+
+        .time {
+            font-size: 12px;
+        }
+    }
+}
+
 @keyframes loading {
     0% {
         background-color: #ccc;

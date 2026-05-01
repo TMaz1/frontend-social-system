@@ -75,7 +75,11 @@ const Navbar: React.FC = () => {
                 </div>
 
                 <div className={styles.right}>
-                    {!isMobile && <SearchBar mobile={false} />}
+                    {!isMobile &&
+                        <div className={styles.searchContainer}>
+                            <SearchBar mobile={false} />
+                        </div>
+                    }
 
                     {isMobile && (
                         <button

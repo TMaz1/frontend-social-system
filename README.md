@@ -1,6 +1,6 @@
 # frontend-social-system
 
-Demo Here: https://TMaz1.github.io/frontend-social-system/
+Try out the demo here: https://TMaz1.github.io/frontend-social-system/
 
 A frontend systems project focused on building and evolving **complex, high-interactivity interfaces**.
 

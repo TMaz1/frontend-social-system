@@ -11,21 +11,19 @@
     position: sticky;
     z-index: 2000;
     top: 0;
-    transition: top 0.25s ease, padding 0.25s ease, background 0.3s;
+
+    transition: transform 0.2s ease, background 0.2s ease;
 
     @media (max-width: 500px) {
         padding: 12px 20px;
     }
 }
 
-body.banner-visible .navbar {
-    top: 36px;
-}
-
 /* SHRINKED ON SCROLL */
 .shrunk {
     padding: 5px 48px;
     backdrop-filter: blur(6px);
+    background: rgba(20, 20, 20, 0.85);
 }
 
 /* LOGO */
@@ -65,10 +63,17 @@ body.banner-visible .navbar {
 }
 
 /* RIGHT SECTION */
+.searchContainer {
+    width: 380px;
+    flex-shrink: 0;
+    min-width: 0;
+}
+
 .right {
     display: flex;
     align-items: center;
     gap: 18px;
+    flex-shrink: 0;
 }
 
 /* SEARCH BUTTON */

@@ -1,8 +1,14 @@
 @use "../../styles/variables" as *;
 
 .banner {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+
     width: 100%;
-    height: 36px;
+    padding: 8px 0;
+
     background: $grey-800;
     color: $white-soft;
 
@@ -10,8 +16,6 @@
     align-items: center;
     justify-content: center;
 
-    position: sticky;
-    top: 0;
     z-index: 3000;
 
     font-family: $font-sans;
@@ -19,12 +23,12 @@
 
     border-bottom: 1px solid rgba(255, 255, 255, 0.06);
 
-    // animation: slideDown 0.25s ease;
-
     p {
         margin: 0;
         text-align: center;
-        padding: 0 48px;
+        padding: 0 40px;
+        line-height: 1.4;
+        word-break: break-word;
     }
 }
 
@@ -51,4 +55,14 @@
 
     display: flex;
     align-items: center;
+}
+
+@media (max-width: 400px) {
+    .banner p {
+        padding: 0 32px;
+    }
+
+    .close {
+        right: 8px;
+    }
 }

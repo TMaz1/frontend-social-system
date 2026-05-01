@@ -14,17 +14,11 @@ const TopBanner: React.FC = () => {
 
         if (!dismissed) {
             setVisible(true);
-            document.body.classList.add("banner-visible");
         }
-
-        return () => {
-            document.body.classList.remove("banner-visible");
-        };
     }, []);
 
     const handleClose = () => {
         sessionStorage.setItem(STORAGE_KEY, "true");
-        document.body.classList.remove("banner-visible");
         setVisible(false);
     };
 

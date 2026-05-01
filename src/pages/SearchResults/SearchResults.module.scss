@@ -1,7 +1,6 @@
 @use "../../styles/variables" as *;
 
 .page {
-    padding: 40px;
     max-width: 1300px;
     margin: 0 auto;
 }
@@ -10,6 +9,7 @@
     font-family: $font-sans;
     font-size: 24px;
     margin-bottom: 20px;
+    padding: 38px 14px;
 }
 
 .noResults {
