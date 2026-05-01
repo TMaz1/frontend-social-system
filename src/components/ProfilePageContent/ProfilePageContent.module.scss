@@ -4,7 +4,6 @@
     width: 100%;
     max-width: 980px;
     margin: 0 auto;
-    padding: 24px 16px;
 
     display: flex;
     flex-direction: column;
@@ -19,6 +18,7 @@
     overflow-y: hidden;
     white-space: nowrap;
     display: block;
+    padding: 0 8px;
 }
 
 .actions {
@@ -53,11 +53,10 @@
 .collectionHeaderRow {
     display: flex;
     align-items: center;
-    justify-content: center; // description centered
-    position: relative; // allows absolute positioning for button
+    justify-content: center;
+    position: relative;
     margin-top: -12px;
     margin-bottom: 8px;
-    min-height: 38px;
 }
 
 .collectionDescription {

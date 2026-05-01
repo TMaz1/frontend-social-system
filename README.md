@@ -1,10 +1,10 @@
 # frontend-social-system
 
-Try out the demo here: https://TMaz1.github.io/frontend-social-system/
+An interactive frontend system that simulates a social platform UI with dynamic layouts and state-driven interactions.
 
-A frontend systems project focused on building and evolving **complex, high-interactivity interfaces**.
+Live demo: https://TMaz1.github.io/frontend-social-system/
 
-Using a card and collection-based model as a foundation, the project explores how scalable UI architecture, state management, and layout systems behave under increasing interface complexity, rather than on backend integration.
+The project is built around a card-and-collection architecture to explore scalable UI patterns, state management, and layout complexity in a frontend-only environment (no backend integration).
 
 ---
 

@@ -152,9 +152,11 @@ const ProfilePageContent: React.FC<Props> = ({ user, isOwnProfile }) => {
 
                     {selectedCollection !== "uploaded" && selectedCollection !== "saved" && (
                         <div className={styles.collectionHeaderRow}>
-                            <div className={styles.collectionDescription}>
-                                {currentDescription}
-                            </div>
+                            {currentDescription && (
+                                <div className={styles.collectionDescription}>
+                                    {currentDescription}
+                                </div>
+                            )}
 
                             {reorderMode && (
                                 <button className={styles.doneBtn} onClick={endReorder}>

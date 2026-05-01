@@ -16,6 +16,7 @@ import TopBanner from "./components/TopBanner/TopBanner";
 import AppSkeletonOverlay from "./components/Loader/AppSkeletonOverlay/AppSkeletonOverlay";
 import { ProtectedRoute } from "./routes/ProtectedRoute";
 import { GuestRoute } from "./routes/GuestRoute";
+import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
 
 const App: React.FC = () => {
 	const { isInitialised } = useCardContext();
@@ -36,6 +37,7 @@ const App: React.FC = () => {
 
 	return (
 		<HashRouter>
+			<ScrollToTop />
 			<ToastProvider>
 				<>
 					<TopBanner />

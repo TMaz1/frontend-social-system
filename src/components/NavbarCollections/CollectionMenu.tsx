@@ -11,7 +11,6 @@ interface Props {
     onEdit: (col: CollectionTab) => void;
 }
 
-const MENU_WIDTH = 180;
 const OFFSET = 8;
 
 const CollectionMenu: React.FC<Props> = ({
@@ -44,14 +43,31 @@ const CollectionMenu: React.FC<Props> = ({
         const viewportWidth = window.innerWidth;
         const viewportHeight = window.innerHeight;
 
+        const menuWidth = menuRect.width;
+        const isMobile = viewportWidth < 700;
+
         let top = btnRect.bottom + scrollY + OFFSET;
-        let left = btnRect.right + scrollX - MENU_WIDTH;
+        let left;
 
-        if (left + MENU_WIDTH > scrollX + viewportWidth - 8) {
-            left = btnRect.left + scrollX;
+        if (isMobile) {
+            // ALWAYS open to the left on mobile
+            left = btnRect.right + scrollX - menuWidth;
+        } else {
+            // desktop smart positioning
+            left = btnRect.right + scrollX - menuWidth;
+
+            if (left + menuWidth > scrollX + viewportWidth - 8) {
+                left = btnRect.left + scrollX;
+            }
         }
-        if (left < scrollX + 8) left = scrollX + 8;
 
+        // clamp horizontally
+        left = Math.max(
+            scrollX + 8,
+            Math.min(left, scrollX + viewportWidth - menuWidth - 8)
+        );
+
+        // vertical logic (unchanged)
         if (top + menuRect.height > scrollY + viewportHeight - 8) {
             top = btnRect.top + scrollY - menuRect.height - OFFSET;
         }
@@ -110,8 +126,7 @@ const CollectionMenu: React.FC<Props> = ({
                         style={{
                             position: "absolute",
                             top: coords.top,
-                            left: coords.left,
-                            width: MENU_WIDTH,
+                            left: coords.left
                         }}
                     >
                         {/* Reorder */}

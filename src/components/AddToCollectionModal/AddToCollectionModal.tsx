@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import Modal from "../Modal/Modal";
 import styles from "./CollectionModal.module.scss";
 import CollectionModal from "./CollectionModal";
@@ -17,15 +17,7 @@ const AddToCollectionModal: React.FC<Props> = ({
     onSelectCollection,
     onCreateCollection,
 }) => {
-    const [isMobile, setIsMobile] = useState(false);
     const [showCreateModal, setShowCreateModal] = useState(false);
-
-    useEffect(() => {
-        const check = () => setIsMobile(window.innerWidth < 700);
-        check();
-        window.addEventListener("resize", check);
-        return () => window.removeEventListener("resize", check);
-    }, []);
 
     const handleAdd = (collectionId: string) => {
         onSelectCollection(collectionId);
@@ -45,11 +37,7 @@ const AddToCollectionModal: React.FC<Props> = ({
                 onClose={onClose}
                 content={
                     <div
-                        className={
-                            isMobile
-                                ? `${styles.contentWrapper} ${styles.bottomSheet}`
-                                : `${styles.contentWrapper} ${styles.centered}`
-                        }
+                        className={ `${styles.contentWrapper} ${styles.centered}`}
                     >
                         <div className={styles.list}>
                             {collections.map((c) => (

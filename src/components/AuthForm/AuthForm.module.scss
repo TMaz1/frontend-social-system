@@ -182,25 +182,6 @@
     }
 }
 
-/* Media Queries for smaller screens */
-@media (max-width: 500px) {
-    .authContainer {
-        padding: 25px 20px;
-
-        h2 {
-            font-size: 28px;
-        }
-    }
-
-    .authForm input {
-        font-size: 14px;
-    }
-
-    .authForm button {
-        font-size: 15px;
-    }
-}
-
 .overlay {
     position: fixed;
     top: 0;
@@ -212,4 +193,24 @@
     justify-content: center;
     align-items: center;
     z-index: 1000;
+}
+
+/* Media Queries for smaller screens */
+@media (max-width: 500px) {
+    .authContainer {
+        margin: 8px auto;
+        padding: 0 5px;
+
+        h2 {
+            font-size: 28px;
+        }
+    }
+
+    .authForm input {
+        font-size: 14px;
+    }
+
+    .authForm button {
+        font-size: 14px;
+    }
 }

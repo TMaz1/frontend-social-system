@@ -24,3 +24,9 @@
         opacity: 1;
     }
 }
+
+@media (max-width: 600px) {
+    .page {
+        padding: 22px;
+    }
+}

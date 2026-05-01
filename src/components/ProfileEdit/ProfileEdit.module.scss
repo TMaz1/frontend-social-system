@@ -58,7 +58,6 @@
         font-size: 28px;
         color: $grey-900;
         font-weight: 500;
-        margin-right: 40px;
     }
 }
 
@@ -161,7 +160,7 @@
 
 .loading {
     text-align: center;
-    padding: 40px;
+    padding: 32px;
     font-size: 18px;
 }
 
@@ -229,4 +228,10 @@
     font-size: 12px;
     color: $grey-600;
     margin-top: 2px;
+}
+
+@media (max-width: 600px) {
+    .authContainer {
+        padding: 0;
+    }
 }
