@@ -25,7 +25,7 @@ export const SaveButton: React.FC<Props> = ({ cardId }) => {
     const handleClick = () => {
         // Not logged in → redirect
         if (!isAuthenticated) {
-            showToast("Log in or create an account to save cards");
+            showToast("Please log in to save cards");
             navigate("/login");
             return;
         }

@@ -12,7 +12,7 @@
     z-index: 2000;
     top: 0;
 
-    transition: transform 0.2s ease, background 0.2s ease;
+    transition: transform 0.2s ease, padding 0.2s ease;
 
     @media (max-width: 500px) {
         padding: 12px 20px;
@@ -23,7 +23,10 @@
 .shrunk {
     padding: 5px 48px;
     backdrop-filter: blur(6px);
-    background: rgba(20, 20, 20, 0.95);
+
+    @media (max-width: 600px) {
+        padding: 5px 24px;
+    }
 }
 
 /* LOGO */
